@@ -1,0 +1,9 @@
+ng g c body --skip-tests true
+ng g c sidenav --skip-tests true  
+ng g c dashboard --skip-tests true
+ng g c products --skip-tests true
+ng g c statistics --skip-tests true
+ng g c coupens --skip-tests true
+ng g c pages --skip-tests true
+ng g c media --skip-tests true
+ng g c settings --skip-tests true
